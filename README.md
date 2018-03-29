@@ -2,7 +2,7 @@
 
 Darian Tse 100555289
 
-##How to use
+## How to use
 
 Class files already built
 
